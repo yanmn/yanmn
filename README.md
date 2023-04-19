@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋	\xF0\x9F\x98\x9D
+
+- I am a Ph.D. student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/). 
+
 
 ![Yanmn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanmn&show_icons=true&theme=radical)
 
